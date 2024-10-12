@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/rongali-balaji-36916a289/">Balaji</a> </h1>
 
-<!--
-**balajirongali/balajirongali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- Adding Header Elements -->
+<p align="center">
+<!--   <a href="http://sanjaykv.com/">Portfolio</a> - -->
+<!--   <a href="https://www.linkedin.com/in/rongali-balaji-36916a289/">LinkedIn</a> - 
+  <a href="https://x.com/sanjay_kv_">Twitter</a> -
+  <a href="https://recodehive.com/">Website</a> -
+  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
+  <a href="https://topmate.io/sanjaykv/">Contact me</a>  -->
+</p>
 
-Here are some ideas to get you started:
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Third year Compter Science student at SVNIT Surat<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- Adding Tech Stack open Section -->
+
+
+<details>	
+ <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
+Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
+Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
+<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
+<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
+<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
+Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
+
+
+</details> 
+
